@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Denis
 ---
 
-A university student, that love java.
+A university student, that loves java.
 
 Work on some pet projects in my free time. Feel free to ask for help or invite to work, I would happily participate in project.
 
@@ -16,6 +16,11 @@ Open to internship offers.
 📝Contacts:
 
 Vk: vk.com/denisfominyh
+
+---
+Current work:
+[ObshagaHelper](https://github.com/Dompurrr/ObshagaHelper)
+
 
 <!--
 **Dompurrr/Dompurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
