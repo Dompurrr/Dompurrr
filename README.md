@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Denis
+---
+
+A university student, that love java.
+
+Work on some pet projects in my free time. Feel free to ask for help or invite to work, I would happily participate in project.
+
+Open to internship offers.
+
+---
+🧰Tools:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" width=50 height=50/>
+
+---
+📝Contacts:
+
+Vk: vk.com/denisfominyh
 
 <!--
 **Dompurrr/Dompurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
