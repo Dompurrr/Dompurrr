@@ -18,7 +18,7 @@ Open to internship offers.
 Vk: vk.com/denisfominyh
 
 ---
-Current work:
+Current project:
 [ObshagaHelper](https://github.com/Dompurrr/ObshagaHelper)
 
 
