@@ -19,7 +19,7 @@ Vk: vk.com/denisfominyh
 
 ---
 Current project:
-[ObshagaHelper](https://github.com/Dompurrr/ObshagaHelper)
+[DonationApp](https://github.com/Dompurrr/DonationApp)
 
 
 <!--
