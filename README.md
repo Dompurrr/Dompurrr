@@ -19,8 +19,8 @@ Vk: vk.com/denisfominyh
 Tg: @denisDefo
 
 ---
-Current projects:
-[coliving-helper](https://github.com/Dompurrr/coliving-helper)
+Current projects:  
+[coliving-helper](https://github.com/Dompurrr/coliving-helper)  
 [DonationApp](https://github.com/Dompurrr/DonationApp)
 
 
