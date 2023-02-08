@@ -16,9 +16,11 @@ Open to internship offers.
 📝Contacts:
 
 Vk: vk.com/denisfominyh
+Tg: @denisDefo
 
 ---
-Current project:
+Current projects:
+[coliving-helper](https://github.com/Dompurrr/coliving-helper)
 [DonationApp](https://github.com/Dompurrr/DonationApp)
 
 
